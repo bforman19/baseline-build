@@ -378,15 +378,6 @@ function Reviews() {
             >
               <span className="font-bold">G</span> Google Reviews
             </a>
-            <a
-              href="https://www.yelp.com/biz/baseline-liquor-store-boulder"
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium"
-              style={{ backgroundColor: "#FDE8E8", color: "#D32323" }}
-            >
-              <span className="font-bold">Yelp</span>
-            </a>
           </div>
         </FadeIn>
 
@@ -437,14 +428,6 @@ function Reviews() {
                 className="inline-flex items-center justify-center gap-2 border border-primary/40 text-foreground px-6 py-3 rounded-md text-sm uppercase tracking-[0.12em] hover:border-primary hover:text-primary transition"
               >
                 ★ Leave a Google Review
-              </a>
-              <a
-                href="https://www.yelp.com/biz/baseline-liquor-store-boulder"
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center justify-center gap-2 border border-primary/40 text-foreground px-6 py-3 rounded-md text-sm uppercase tracking-[0.12em] hover:border-primary hover:text-primary transition"
-              >
-                ★ Leave a Yelp Review
               </a>
             </div>
           </div>
