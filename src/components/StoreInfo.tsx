@@ -1,4 +1,4 @@
-import { MapPin, Phone, Clock, Car, Facebook } from "lucide-react";
+import { MapPin, Phone, Clock, Car, Facebook, Mail } from "lucide-react";
 
 export function StoreInfoCard({ showFacebook = false }: { showFacebook?: boolean }) {
   return (
@@ -18,8 +18,14 @@ export function StoreInfoCard({ showFacebook = false }: { showFacebook?: boolean
         </li>
         <li className="flex gap-4">
           <Phone size={18} className="text-primary mt-0.5 shrink-0" />
-          <a href="tel:+13034946097" className="text-foreground hover:text-primary">
-            (303) 494-6097
+          <a href="tel:+17209789118" className="text-foreground hover:text-primary">
+            720-978-9118
+          </a>
+        </li>
+        <li className="flex gap-4">
+          <Mail size={18} className="text-primary mt-0.5 shrink-0" />
+          <a href="mailto:Baselineliquors@gmail.com" className="text-foreground hover:text-primary">
+            Baselineliquors@gmail.com
           </a>
         </li>
         <li className="flex gap-4">

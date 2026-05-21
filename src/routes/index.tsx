@@ -114,7 +114,7 @@ function QuickInfoBar() {
       <FadeIn>
         <div className="bg-card rounded-xl border border-primary/15 glow-amber p-6 md:p-8 grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-primary/10">
           <a
-            href="tel:+13034946097"
+            href="tel:+17209789118"
             className="flex items-center justify-center gap-3 py-3 md:py-0 px-4 hover:text-primary transition"
           >
             <Phone className="text-primary" size={18} />

@@ -4,7 +4,7 @@ export function MobileFloatingBar() {
   return (
     <div className="md:hidden fixed bottom-1 left-1 right-1 z-40 grid grid-cols-2 gap-2 p-2 rounded-xl bg-background/85 backdrop-blur-xl border border-primary/15">
       <a
-        href="tel:+13034946097"
+        href="tel:+17209789118"
         className="glow-amber inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground rounded-lg py-3 text-sm font-medium"
       >
         <Phone size={16} /> Call

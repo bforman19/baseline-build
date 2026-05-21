@@ -9,15 +9,15 @@ export function Footer() {
         <div className="container mx-auto max-w-7xl px-5 md:px-8 py-4 grid grid-cols-1 md:grid-cols-3 gap-3 text-center md:text-left">
           <div className="text-[11px] uppercase tracking-[0.14em] text-muted-foreground">
             <span className="text-primary">Tel · </span>
-            <a href="tel:+13034946097" className="hover:text-foreground">(303) 494-6097</a>
+            <a href="tel:+17209789118" className="hover:text-foreground">720-978-9118</a>
           </div>
           <div className="text-[11px] uppercase tracking-[0.14em] text-muted-foreground text-center">
             <span className="text-primary">Address · </span>
             2750 Baseline Rd, Boulder, CO 80305
           </div>
           <div className="text-[11px] uppercase tracking-[0.14em] text-muted-foreground md:text-right">
-            <span className="text-primary">Hours · </span>
-            Mon–Sat 9–11 · Sun 9–10:30
+            <span className="text-primary">Email · </span>
+            <a href="mailto:Baselineliquors@gmail.com" className="hover:text-foreground">Baselineliquors@gmail.com</a>
           </div>
         </div>
       </div>
